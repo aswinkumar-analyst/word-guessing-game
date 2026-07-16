@@ -17,6 +17,5 @@ A fun, interactive **console-based word guessing game** built in Python. Perfect
 
 1. Clone the repository:
    ```bash
-
-python word_guessing_game.py
-   
+   git clone https://github.com/yourusername/word-guessing-game.git
+   cd word-guessing-game
